@@ -2,5 +2,5 @@
 // 👆 Used to tell Node.js that this is a CLI tool
 
 console.log(
-  "Create a CLI tool to output a business card in the terminal!\n\nView the tutorial ➞\n\nhttps://whitep4nth3r.com/blog/build-a-business-card-cli-tool/",
+  "\n\nHi there! I'm justgu.us, the tiniest Dutch Design System agency, packed inside a CLI-body \n\nBlog  >  https://justgu.us\nQuestions?  >  https://askgu.us\nPortfolio  >  https://followgu.us\n\n.: Revolver-DS :. (WIP)  >  https://followgu.us/revolverds\n.: B.O.U.~M License :.  >  https://followgu.us/license\n\nFollow my GAMIFIED workshop Naming Things here > \nhttps://followgu.us/workshop\n\nor just HIRE ME 24/7 from my webshop here >\nhttps://followgu.us/webshop\n\n\n",
 );

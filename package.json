@@ -1,18 +1,19 @@
 {
-  "name": "fancy-business-card",
+  "name": "justguus",
   "version": "1.0.1",
-  "description": "A boilerplate to create a fancy business card that outputs to the terminal using npx.",
+  "description": "A CLI-businesscard created from the template by https://github.com/whitep4nth3r/whitep4nth3r to complete my semantical portfolio of Just Guus.",
   "main": "index.js",
   "bin": {
     "fancy-business-card": "./index.js"
   },
   "scripts": {},
-  "author": "whitep4nth3r",
+  "author": "justgu.us",
   "keywords": [
     "tutorial",
     "CLI",
     "tool",
-    "business"
+    "business",
+    "justguus"
   ],
   "license": "MIT"
 }
